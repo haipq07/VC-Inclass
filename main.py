@@ -1,1 +1,1 @@
-print ("hello world")
+echo "print('New content in main.py')" >> main.py
